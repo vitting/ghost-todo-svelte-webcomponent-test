@@ -1,1 +1,1 @@
-import "./dist/bundle.js";
+import "ghost-todo-svelte-webcomponent";
