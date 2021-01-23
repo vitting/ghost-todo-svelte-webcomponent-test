@@ -12,6 +12,6 @@
     "snowpack": "^3.0.11"
   },
   "dependencies": {
-    "ghost-todo-svelte-webcomponent": "^0.0.2"
+    "ghost-todo-svelte-webcomponent": "^0.0.5"
   }
 }
