@@ -1,0 +1,14 @@
+{
+  "name": "ghost-todo-svelte-webcomponent-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx snowpack dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snowpack": "^3.0.11"
+  }
+}
